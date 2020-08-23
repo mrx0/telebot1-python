@@ -1,2 +1,9 @@
 /.idea
+/venv
+/Lib
+/Scripts
+pyvenv.cfg
+requirements.txt
+Procfile.windows
+__init__.py
 *.orig
